@@ -3,4 +3,4 @@ new change from commandline
 
 Jeg vil endre mitt repository
 
-xxx
+Dette er en ny endring
